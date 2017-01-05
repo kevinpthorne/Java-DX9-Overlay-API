@@ -1,7 +1,7 @@
 # Java-DX9-Overlay-API
 A Java Wrapper for the [DX9-Overlay-API](https://github.com/agrippa1994/DX9-Overlay-API)
 
-### Usage example (dx9-overlay.dll needs to be added to classpath)
+### Usage example (dx9_overlay.dll needs to be added to classpath)
     import me.kevinpthorne.dx9overlayapi.DX9OverlayAPI;
     import me.kevinpthorne.dx9overlayapi.elements.TextLabel;
     
@@ -36,3 +36,4 @@ A Java Wrapper for the [DX9-Overlay-API](https://github.com/agrippa1994/DX9-Over
         }
     
     }
+
