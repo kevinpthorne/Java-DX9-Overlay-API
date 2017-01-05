@@ -8,7 +8,7 @@ import com.sun.jna.NativeLong;
  *
  * Source: <a href="https://github.com/agrippa1994/DX9-Overlay-API/blob/master/include/c%23/Overlay.cs">DX9-Overlay-API GitHub</a>
  * <br>
- * Created by kevint on 1/3/2017.
+ * Created by kevinpthorne on 1/3/2017.
  */
 public interface DX9OverlayAPI extends Library {
 

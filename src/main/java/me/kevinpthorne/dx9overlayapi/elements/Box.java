@@ -1,15 +1,13 @@
 package me.kevinpthorne.dx9overlayapi.elements;
 
-import com.sun.jna.ptr.IntByReference;
 import me.kevinpthorne.dx9overlayapi.DX9OverlayAPI;
 import me.kevinpthorne.dx9overlayapi.DX9OverlayUtil;
 
 import java.awt.Color;
 import java.awt.Rectangle;
 
-
 /**
- * Created by kevint on 1/3/2017.
+ * Created by kevinpthorne on 1/3/2017.
  */
 public class Box extends OverlayElement {
 

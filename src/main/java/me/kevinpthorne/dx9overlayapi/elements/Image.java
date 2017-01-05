@@ -4,9 +4,8 @@ import me.kevinpthorne.dx9overlayapi.DX9OverlayAPI;
 
 import java.awt.Point;
 
-
 /**
- * Created by kevint on 1/3/2017.
+ * Created by kevinpthorne on 1/3/2017.
  */
 public class Image extends OverlayElement {
 

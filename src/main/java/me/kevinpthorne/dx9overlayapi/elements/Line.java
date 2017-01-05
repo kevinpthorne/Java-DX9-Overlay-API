@@ -7,7 +7,7 @@ import java.awt.Color;
 import java.awt.Point;
 
 /**
- * Created by kevint on 1/3/2017.
+ * Created by kevinpthorne on 1/3/2017.
  */
 public class Line extends OverlayElement {
 

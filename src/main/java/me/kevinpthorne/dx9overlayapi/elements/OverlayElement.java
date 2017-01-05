@@ -1,9 +1,11 @@
 package me.kevinpthorne.dx9overlayapi.elements;
 
-import java.awt.*;
+import java.awt.Color;
 
 /**
- * Created by kevint on 1/3/2017.
+ * Generic class for any overlays
+ *
+ * Created by kevinpthorne on 1/3/2017.
  */
 public abstract class OverlayElement {
 
